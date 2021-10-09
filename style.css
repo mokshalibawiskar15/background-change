@@ -1,0 +1,20 @@
+body{
+    
+    display: flex;
+}
+#container{
+    height: 500px;
+    width: 500px;
+    background-color: blueviolet;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    margin: 100px auto;
+}
+#button{
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+    align-items:center;
+    margin-top: 200px;
+}
